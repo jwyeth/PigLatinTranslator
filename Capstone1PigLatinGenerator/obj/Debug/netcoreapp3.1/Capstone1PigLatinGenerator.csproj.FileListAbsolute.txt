@@ -1,0 +1,13 @@
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\bin\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.exe
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\bin\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.deps.json
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\bin\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.runtimeconfig.json
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\bin\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.runtimeconfig.dev.json
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\bin\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.dll
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\bin\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.pdb
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.AssemblyInfoInputs.cache
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.AssemblyInfo.cs
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.dll
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.pdb
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.genruntimeconfig.cache
+C:\Users\jwyeth\source\repos\Capstone1PigLatinGenerator\Capstone1PigLatinGenerator\obj\Debug\netcoreapp3.1\Capstone1PigLatinGenerator.csprojAssemblyReference.cache
