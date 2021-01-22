@@ -8,8 +8,7 @@ namespace Capstone1PigLatinGenerator
         {
             string goAgain = "y";
             string input;
-            string output;
-
+            
             Console.WriteLine("Welcome to the Pig Latin Translator!");
 
             while (goAgain == "y")
@@ -17,37 +16,34 @@ namespace Capstone1PigLatinGenerator
                 Console.Write("Please enter a word to be translated: ");
                 input = Console.ReadLine();
                 string lowerInput = input.ToLower();
-                string firstLetter = lowerInput.Substring(0, 1);
 
-                if (firstLetter == "a" || firstLetter == "i" || firstLetter == "e" || firstLetter == "o" || firstLetter == "u")
-                {
-                    output = lowerInput + "way";
-                    Console.WriteLine(output);
-                }
-                else output = TranslateToPigLatin(lowerInput);
+                TranslateToPigLatin(lowerInput);
 
-                Console.WriteLine(output);
                 Console.Write("Would you like to translate another word? (y/n) ");
-
                 goAgain = Console.ReadLine().ToLower();
             }
         }
 
-        public static string TranslateToPigLatin(string lowerInput)
+        public static void TranslateToPigLatin(string lowerInput)
         {
-         
 
-            
-            int index = lowerInput.IndexOfAny("aeiou".ToCharArray());
+            String[] words = lowerInput.Split();
 
-            if (index == -1)
-                return "There doesn't seem to be any vowels.";
-            else
+            for (int i = 0; i < words.Length; i++)
             {
-                string front = lowerInput.Substring(0, index);
-                string back = lowerInput.Substring(index);
-                string output = back + front + "ay";
-                return output;
+                int index = words[i].IndexOfAny("aeiou".ToCharArray());
+
+                if (index == 0)
+                {
+                    Console.WriteLine(words[i] + "way");
+                }
+                else
+                {
+                    string front = words[i].Substring(0, index);
+                    string back = words[i].Substring(index);
+
+                    Console.WriteLine(back + front + "ay");
+                }
             }
         }
     }
